@@ -1,5 +1,5 @@
-<h1 align="center">Hi , I'm Matias Campos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">I'm a Software Engineer</h3>
+<h1 align="start">Hi , I'm Matias Campos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="start">I'm a Software Engineer</h3>
 
 # 💫 About Me:
 🚀 I'm passionate about web application development.
