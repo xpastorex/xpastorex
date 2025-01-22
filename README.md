@@ -2,6 +2,11 @@
 <h3 align="start">I'm a Software Engineer</h3>
 
 # 💫 About Me:
+
+I am a Software Engineering student passionate about web application development. I have experience in both Frontend and Backend development, with knowledge of REST API development and SQL and NoSQL databases.
+If you choose to work with me, we can develop a high-quality project together.
+<br/>
+
 🚀 I'm passionate about web application development.
 <br>
 🌐 Currently looking to expand my knowledge.
