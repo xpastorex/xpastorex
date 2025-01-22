@@ -8,9 +8,12 @@ If you choose to work with me, we can develop a high-quality project together.
 <br/>
 
 🚀 I'm passionate about web application development.
-<br>
+<br/>
 🌐 Currently looking to expand my knowledge.
-<br>
+<br/>
+
+# <h1>😁 Personal portfolio:</h1> <a href="https://matiasportfolio.netlify.app/">Matias Campos Portfolio</a>
+<br/>
 
 # 💻 Tech Stack:
 <span>
@@ -52,3 +55,13 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=xpastorex&exc
 alt="xpastorex-pw"
 bg_color=#808080/>
 </div>
+
+# 🌎 Social Medias:
+
+<a target="_blank" href='https://www.linkedin.com/in/matias-campos-bascur-1b3a43201/'>
+  <img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' />
+</a>
+<a target="_blank" href='https://www.instagram.com/xpastorex/'>
+  <img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white' />
+</a>
+
