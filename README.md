@@ -49,13 +49,6 @@ If you choose to work with me, we can develop a high-quality project together.
 </ul>
 <br/>
 
-<div align="start" style="display:inline-block;flex-wrap:nowrap;">
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs?username=xpastorex&exclude_repo=PPL_A_2022_10,PBP_Mini_Project&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-alt="xpastorex-pw"
-bg_color=#808080/>
-</div>
-
 # 🌎 Social Medias:
 
 <a target="_blank" href='https://www.linkedin.com/in/matias-campos-bascur-1b3a43201/'>
